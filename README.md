@@ -1,16 +1,18 @@
 ### Hi there 👋
+### I'm Oluwaseun but my friends call me Nino.
+### Since you're here, you're my friend, so you can call me Nino too.
 
-<!--
-**NinoBass/NinoBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Core-Skills: Flutter / Dart / Go (Beginner).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning GoLang.
+
+🔭 Looking to collaborate on spectacular projects.
+
+💬 Ask me about anything flutter or dart.
+
+📫 Wanna talk? you can reach me via email @seundavid56@gmail.com or on twitter @DavidOdunlade
+
+😄 Pronouns: he/him
+
+⚡ Little fun fact about me: I'm the best FIFA player you'd ever play against😌😮‍💨. I also play the bass guitar and a couple of other instruments professionally⚡️🥁🎹🎸🌟.
