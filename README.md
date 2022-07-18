@@ -13,6 +13,7 @@
 
 📫 Wanna talk? you can reach me via email @seundavid56@gmail.com or on twitter [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18' >](https://twitter.com/DavidOdunlade)
 
+
 😄 Pronouns: he/him
 
 ⚡ Little fun fact about me: I'm the best FIFA player you'd ever play against😌😮‍💨. I also play the bass guitar and a couple of other instruments professionally⚡️🥁🎹🎸🌟.
