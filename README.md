@@ -3,7 +3,7 @@
 ### Since you're here, you're my friend, so you can call me Nino too.
 
 
-🌱 Core-Skills: Flutter / Dart / Go (Beginner).
+🌱 Core-Skills: Flutter / Dart / Go .
 
 🌱 I’m currently learning GoLang.
 
