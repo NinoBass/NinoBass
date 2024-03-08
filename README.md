@@ -3,9 +3,9 @@
 ### Since you're here, you're my friend, so you can call me Nino too.
 
 
-🌱 Core-Skills: Flutter / Dart / Go .
+🌱 Core-Skills: Flutter / Dart / Swift.
 
-🌱 I’m currently learning GoLang.
+🌱 I’m currently learning Swift.
 
 🔭 Looking to collaborate on spectacular projects.
 
