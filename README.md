@@ -24,10 +24,6 @@
 # 💻Tech Stack
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=NinoBass&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoBass&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NinoBass&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
